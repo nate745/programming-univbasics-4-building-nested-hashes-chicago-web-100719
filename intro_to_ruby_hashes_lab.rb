@@ -28,10 +28,10 @@ def monopoly_with_third_tier
 			},
 			:names=>
 			{
-				:reading_railroad=>{}
-				:pennsylvania_railroad=>{}
-				:mortgage_value=>{}
-				:shortline=>{}
+				:reading_railroad=>{},
+				:pennsylvania_railroad=>{},
+				:mortgage_value=>{},
+				:shortline=>{},
 				}
 			}
 	}
